@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "sampledashboard",
+		"path": "."
+	},
+	{
+		"name": "my-website",
+		"path": "../../../my-website"
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
